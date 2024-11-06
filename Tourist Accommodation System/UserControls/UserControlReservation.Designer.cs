@@ -32,6 +32,7 @@
             button_removereservation = new Button();
             button_editreservation = new Button();
             button_addreservation = new Button();
+            button_back = new Button();
             SuspendLayout();
             // 
             // button_listreservation
@@ -74,16 +75,27 @@
             button_addreservation.UseVisualStyleBackColor = true;
             button_addreservation.Click += button_addreservation_Click;
             // 
+            // button_back
+            // 
+            button_back.Location = new Point(501, 74);
+            button_back.Name = "button_back";
+            button_back.Size = new Size(94, 53);
+            button_back.TabIndex = 8;
+            button_back.Text = "<-";
+            button_back.UseVisualStyleBackColor = true;
+            button_back.Click += button_back_Click;
+            // 
             // UserControlReservation
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            Controls.Add(button_back);
             Controls.Add(button_listreservation);
             Controls.Add(button_removereservation);
             Controls.Add(button_editreservation);
             Controls.Add(button_addreservation);
             Name = "UserControlReservation";
-            Size = new Size(1020, 597);
+            Size = new Size(1000, 590);
             ResumeLayout(false);
         }
 
@@ -93,5 +105,6 @@
         private Button button_removereservation;
         private Button button_editreservation;
         private Button button_addreservation;
+        private Button button_back;
     }
 }

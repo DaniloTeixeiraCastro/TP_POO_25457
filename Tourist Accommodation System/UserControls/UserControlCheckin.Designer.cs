@@ -83,7 +83,7 @@
             Controls.Add(button_editcheckin);
             Controls.Add(button_addcheckin);
             Name = "UserControlCheckin";
-            Size = new Size(1016, 596);
+            Size = new Size(1000, 590);
             ResumeLayout(false);
         }
 

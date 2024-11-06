@@ -80,7 +80,7 @@
             button_back.BackColor = Color.Transparent;
             button_back.Location = new Point(469, 82);
             button_back.Name = "button_back";
-            button_back.Size = new Size(205, 44);
+            button_back.Size = new Size(51, 44);
             button_back.TabIndex = 9;
             button_back.Text = "<-";
             button_back.UseVisualStyleBackColor = false;
@@ -96,7 +96,8 @@
             Controls.Add(button_editclient);
             Controls.Add(button_addclient);
             Name = "UserControlClient";
-            Size = new Size(1010, 596);
+            Size = new Size(1000, 590);
+            Load += UserControlClient_Load;
             ResumeLayout(false);
         }
 

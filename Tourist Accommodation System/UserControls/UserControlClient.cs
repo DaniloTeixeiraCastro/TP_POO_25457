@@ -1,4 +1,5 @@
 ﻿using Tourist_Accommodation_System.Forms;
+using System.Windows.Forms;
 
 namespace Tourist_Accommodation_System
 {
@@ -11,6 +12,10 @@ namespace Tourist_Accommodation_System
 
         private void button_back_Click(object sender, EventArgs e)
         {
+            if (this.Parent is Forms1 mainForm)
+            {
+                mainForm.MainPanel.Controls.Clear(); // Limpa o painel para retornar ao Form1
+            }
 
         }
 
@@ -37,5 +42,12 @@ namespace Tourist_Accommodation_System
         {
 
         }
+
+        private void UserControlClient_Load(object sender, EventArgs e)
+        {
+
+        }
     }
+
+
 }

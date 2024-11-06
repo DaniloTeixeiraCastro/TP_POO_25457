@@ -26,5 +26,15 @@
         {
 
         }
+
+        private void UserControlReview_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button_back_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

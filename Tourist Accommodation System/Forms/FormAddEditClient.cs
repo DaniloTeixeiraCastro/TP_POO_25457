@@ -41,7 +41,7 @@
 
         private void dateTimePicker_ValueChanged(object sender, EventArgs e)
         {
-            dateTimePicker.MaxDate = DateTime.Today.AddYears(-18);
+            dateTimePicker .MaxDate = DateTime.Today.AddYears(-18);
         }
 
 

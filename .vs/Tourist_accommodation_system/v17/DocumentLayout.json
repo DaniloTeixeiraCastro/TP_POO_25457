@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\TP_POO_25257\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|c:\\tp_poo_25257\\tourist accommodation system\\forms\\formaddeditclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\forms\\formaddeditclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|c:\\tp_poo_25257\\tourist accommodation system\\usercontrols\\usercontrolreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\usercontrols\\usercontrolreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|C:\\TP_POO_25257\\tourist accommodation system\\forms\\formaddeditclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\forms\\formaddeditclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|C:\\TP_POO_25257\\tourist accommodation system\\usercontrols\\usercontrolreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\usercontrols\\usercontrolreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|c:\\tp_poo_25257\\tourist accommodation system\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|c:\\tp_poo_25257\\tourist accommodation system\\usercontrols\\usercontrolreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\usercontrols\\usercontrolreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|c:\\tp_poo_25257\\tourist accommodation system\\forms\\formaddeditclient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\forms\\formaddeditclient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|c:\\tp_poo_25257\\tourist accommodation system\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|c:\\tp_poo_25257\\tourist accommodation system\\usercontrols\\usercontrolclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\usercontrols\\usercontrolclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|C:\\TP_POO_25257\\tourist accommodation system\\usercontrols\\usercontrolreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\usercontrols\\usercontrolreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|C:\\TP_POO_25257\\tourist accommodation system\\usercontrols\\usercontrolclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -39,28 +31,44 @@
       "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\forms1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|c:\\tp_poo_25257\\tourist accommodation system\\usercontrols\\usercontrolclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\usercontrols\\usercontrolclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|C:\\TP_POO_25257\\tourist accommodation system\\usercontrols\\usercontrolcheckin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\usercontrols\\usercontrolcheckin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|C:\\TP_POO_25257\\tourist accommodation system\\usercontrols\\usercontrolaccommodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|c:\\tp_poo_25257\\tourist accommodation system\\forms\\formaddeditclient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\forms\\formaddeditclient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|c:\\tp_poo_25257\\tourist accommodation system\\inavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\inavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|c:\\tp_poo_25257\\tourist accommodation system\\usercontrols\\usercontrolaccommodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\usercontrols\\usercontrolaccommodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|c:\\tp_poo_25257\\tourist accommodation system\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|c:\\tp_poo_25257\\tourist accommodation system\\forms\\formaddeditclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\forms\\formaddeditclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|C:\\TP_POO_25257\\tourist accommodation system\\forms\\formaddeditclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\forms\\formaddeditclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|c:\\tp_poo_25257\\tourist accommodation system\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|c:\\tp_poo_25257\\tourist accommodation system\\forms1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\forms1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|C:\\TP_POO_25257\\tourist accommodation system\\usercontrols\\usercontrolreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\usercontrols\\usercontrolreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|C:\\TP_POO_25257\\tourist accommodation system\\usercontrols\\usercontrolreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\usercontrols\\usercontrolreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|c:\\tp_poo_25257\\tourist accommodation system\\usercontrols\\usercontrolclient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D78D79C-3A8C-4DAD-AFEC-A1F647CE8D68}|Tourist Accommodation System\\Tourist Accommodation System.csproj|solutionrelative:tourist accommodation system\\usercontrols\\usercontrolclient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,12 +93,76 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControlReview.cs",
+              "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlReview.cs",
+              "RelativeDocumentMoniker": "Tourist Accommodation System\\UserControls\\UserControlReview.cs",
+              "ToolTip": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlReview.cs",
+              "RelativeToolTip": "Tourist Accommodation System\\UserControls\\UserControlReview.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAhwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:03:22.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControlReservation.cs",
+              "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlReservation.cs",
+              "RelativeDocumentMoniker": "Tourist Accommodation System\\UserControls\\UserControlReservation.cs",
+              "ToolTip": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlReservation.cs",
+              "RelativeToolTip": "Tourist Accommodation System\\UserControls\\UserControlReservation.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAtwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:03:11.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserControlClient.cs",
+              "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlClient.cs",
+              "RelativeDocumentMoniker": "Tourist Accommodation System\\UserControls\\UserControlClient.cs",
+              "ToolTip": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlClient.cs",
+              "RelativeToolTip": "Tourist Accommodation System\\UserControls\\UserControlClient.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:40:31.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "INavigation.cs",
+              "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\INavigation.cs",
+              "RelativeDocumentMoniker": "Tourist Accommodation System\\INavigation.cs",
+              "ToolTip": "C:\\TP_POO_25257\\Tourist Accommodation System\\INavigation.cs",
+              "RelativeToolTip": "Tourist Accommodation System\\INavigation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:39:43.832Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
+              "Title": "UserControlAccommodation.cs [Projeto]",
+              "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlAccommodation.cs",
+              "RelativeDocumentMoniker": "Tourist Accommodation System\\UserControls\\UserControlAccommodation.cs",
+              "ToolTip": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlAccommodation.cs [Projeto]",
+              "RelativeToolTip": "Tourist Accommodation System\\UserControls\\UserControlAccommodation.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:24:33.636Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Reservation.cs",
               "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\Models\\Reservation.cs",
               "RelativeDocumentMoniker": "Tourist Accommodation System\\Models\\Reservation.cs",
@@ -98,11 +170,12 @@
               "RelativeToolTip": "Tourist Accommodation System\\Models\\Reservation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T23:11:16.984Z"
+              "WhenOpened": "2024-11-01T23:11:16.984Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\Models\\Client.cs",
               "RelativeDocumentMoniker": "Tourist Accommodation System\\Models\\Client.cs",
@@ -114,99 +187,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "UserControlReview.cs [Projeto]",
               "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlReview.cs",
               "RelativeDocumentMoniker": "Tourist Accommodation System\\UserControls\\UserControlReview.cs",
               "ToolTip": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlReview.cs [Projeto]",
               "RelativeToolTip": "Tourist Accommodation System\\UserControls\\UserControlReview.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T00:52:13.879Z"
+              "WhenOpened": "2024-11-01T00:52:13.879Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "UserControlReservation.cs [Projeto]",
               "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlReservation.cs",
               "RelativeDocumentMoniker": "Tourist Accommodation System\\UserControls\\UserControlReservation.cs",
               "ToolTip": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlReservation.cs [Projeto]",
               "RelativeToolTip": "Tourist Accommodation System\\UserControls\\UserControlReservation.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T00:52:08.356Z"
+              "WhenOpened": "2024-11-01T00:52:08.356Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "UserControlCheckin.cs [Projeto]",
               "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlCheckin.cs",
               "RelativeDocumentMoniker": "Tourist Accommodation System\\UserControls\\UserControlCheckin.cs",
               "ToolTip": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlCheckin.cs [Projeto]",
               "RelativeToolTip": "Tourist Accommodation System\\UserControls\\UserControlCheckin.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T00:51:57.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserControlAccommodation.cs [Projeto]",
-              "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlAccommodation.cs",
-              "RelativeDocumentMoniker": "Tourist Accommodation System\\UserControls\\UserControlAccommodation.cs",
-              "ToolTip": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlAccommodation.cs [Projeto]",
-              "RelativeToolTip": "Tourist Accommodation System\\UserControls\\UserControlAccommodation.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T00:51:38.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormAddEditClient.cs [Design]",
-              "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\Forms\\FormAddEditClient.cs",
-              "RelativeDocumentMoniker": "Tourist Accommodation System\\Forms\\FormAddEditClient.cs",
-              "ToolTip": "C:\\TP_POO_25257\\Tourist Accommodation System\\Forms\\FormAddEditClient.cs [Design]*",
-              "RelativeToolTip": "Tourist Accommodation System\\Forms\\FormAddEditClient.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T00:25:18.262Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserControlClient.cs",
-              "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlClient.cs",
-              "RelativeDocumentMoniker": "Tourist Accommodation System\\UserControls\\UserControlClient.cs",
-              "ToolTip": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlClient.cs",
-              "RelativeToolTip": "Tourist Accommodation System\\UserControls\\UserControlClient.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAtwBIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T00:11:26.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T00:51:57.698Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "UserControlClient.Designer.cs",
-              "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlClient.Designer.cs",
-              "RelativeDocumentMoniker": "Tourist Accommodation System\\UserControls\\UserControlClient.Designer.cs",
-              "ToolTip": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlClient.Designer.cs",
-              "RelativeToolTip": "Tourist Accommodation System\\UserControls\\UserControlClient.Designer.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Title": "FormAddEditClient.cs [Projeto]",
+              "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\Forms\\FormAddEditClient.cs",
+              "RelativeDocumentMoniker": "Tourist Accommodation System\\Forms\\FormAddEditClient.cs",
+              "ToolTip": "C:\\TP_POO_25257\\Tourist Accommodation System\\Forms\\FormAddEditClient.cs [Projeto]",
+              "RelativeToolTip": "Tourist Accommodation System\\Forms\\FormAddEditClient.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T00:11:15.382Z"
+              "WhenOpened": "2024-11-01T00:25:18.262Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "UserControlClient.cs [Projeto]",
               "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlClient.cs",
               "RelativeDocumentMoniker": "Tourist Accommodation System\\UserControls\\UserControlClient.cs",
               "ToolTip": "C:\\TP_POO_25257\\Tourist Accommodation System\\UserControls\\UserControlClient.cs [Projeto]",
               "RelativeToolTip": "Tourist Accommodation System\\UserControls\\UserControlClient.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T00:11:13.436Z"
+              "WhenOpened": "2024-11-01T00:11:13.436Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "FormAddEditClient.Designer.cs",
               "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\Forms\\FormAddEditClient.Designer.cs",
               "RelativeDocumentMoniker": "Tourist Accommodation System\\Forms\\FormAddEditClient.Designer.cs",
@@ -214,22 +255,24 @@
               "RelativeToolTip": "Tourist Accommodation System\\Forms\\FormAddEditClient.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T00:02:27.204Z"
+              "WhenOpened": "2024-11-01T00:02:27.204Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Forms1.cs [Projeto]",
               "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\Forms1.cs",
               "RelativeDocumentMoniker": "Tourist Accommodation System\\Forms1.cs",
               "ToolTip": "C:\\TP_POO_25257\\Tourist Accommodation System\\Forms1.cs [Projeto]",
               "RelativeToolTip": "Tourist Accommodation System\\Forms1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T22:44:06.953Z"
+              "WhenOpened": "2024-10-31T22:44:06.953Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Forms1.Designer.cs",
               "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\Forms1.Designer.cs",
               "RelativeDocumentMoniker": "Tourist Accommodation System\\Forms1.Designer.cs",
@@ -237,29 +280,31 @@
               "RelativeToolTip": "Tourist Accommodation System\\Forms1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T21:35:28.499Z"
+              "WhenOpened": "2024-10-30T21:35:28.499Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Forms1.cs",
               "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\Forms1.cs",
               "RelativeDocumentMoniker": "Tourist Accommodation System\\Forms1.cs",
               "ToolTip": "C:\\TP_POO_25257\\Tourist Accommodation System\\Forms1.cs",
               "RelativeToolTip": "Tourist Accommodation System\\Forms1.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAhwCEAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAhwCEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T20:36:25.782Z"
+              "WhenOpened": "2024-10-30T20:36:25.782Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "FormAddEditClient.cs",
               "DocumentMoniker": "C:\\TP_POO_25257\\Tourist Accommodation System\\Forms\\FormAddEditClient.cs",
               "RelativeDocumentMoniker": "Tourist Accommodation System\\Forms\\FormAddEditClient.cs",
-              "ToolTip": "C:\\TP_POO_25257\\Tourist Accommodation System\\Forms\\FormAddEditClient.cs*",
-              "RelativeToolTip": "Tourist Accommodation System\\Forms\\FormAddEditClient.cs*",
-              "ViewState": "AgIAACAAAAAAAAAAAAAawDEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\TP_POO_25257\\Tourist Accommodation System\\Forms\\FormAddEditClient.cs",
+              "RelativeToolTip": "Tourist Accommodation System\\Forms\\FormAddEditClient.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAawCwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T00:01:04.893Z",
               "EditorCaption": ""

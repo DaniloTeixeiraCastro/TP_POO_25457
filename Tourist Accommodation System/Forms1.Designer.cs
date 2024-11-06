@@ -145,7 +145,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1003, 547);
+            ClientSize = new Size(982, 543);
             Controls.Add(panel1);
             Controls.Add(MainPanel);
             Name = "Forms1";
@@ -168,6 +168,6 @@
         private Button button_reservation;
         private Button button_reviews;
         private Button button_checkin;
-        private Panel MainPanel;
+        public Panel MainPanel;
     }
 }

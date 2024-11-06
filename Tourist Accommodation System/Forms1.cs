@@ -7,7 +7,7 @@ namespace Tourist_Accommodation_System
             InitializeComponent();
 
         }
-        private void MainPanel_Paint(object sender, PaintEventArgs e)
+        public void MainPanel_Paint(object sender, PaintEventArgs e)
         {
 
         }
@@ -26,7 +26,7 @@ namespace Tourist_Accommodation_System
 
         private void HOME_Load(object sender, EventArgs e)
         {
-
+        
         }
 
         private void button_client_Click(object sender, EventArgs e)
