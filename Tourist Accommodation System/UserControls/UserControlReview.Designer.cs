@@ -83,7 +83,7 @@
             Controls.Add(button_editreview);
             Controls.Add(button_addreview);
             Name = "UserControlReview";
-            Size = new Size(546, 472);
+            Size = new Size(1015, 596);
             ResumeLayout(false);
         }
 

@@ -1,15 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using Tourist_Accommodation_System.Forms;
-using Tourist_Accommodation_System.Models;
-using static System.Windows.Forms.DataFormats;
+﻿using Tourist_Accommodation_System.Forms;
 
 namespace Tourist_Accommodation_System
 {
@@ -33,14 +22,14 @@ namespace Tourist_Accommodation_System
         }
 
         private void button_editclient_Click(object sender, EventArgs e)
-        { 
+        {
 
 
         }
 
         private void button_removeclient_Click(object sender, EventArgs e)
         {
-            
+
 
         }
 

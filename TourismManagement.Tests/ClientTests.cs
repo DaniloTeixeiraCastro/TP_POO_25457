@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Xunit;
-using TourismManagement.Core.Models;
-
-namespace TourismManagement.Tests
+﻿namespace TourismManagement.Tests
 {
     public class ClientTests
     {
@@ -14,7 +6,7 @@ namespace TourismManagement.Tests
         public void IsAdult_ShouldReturnTrue_WhenClientIs18OrOlder()
         {
             // Arrange: Criar um cliente que tem 18 anos ou mais
-            var adultClient = new Client(1, "João Alves", "joao@ipca.com", "259486639", "912231427" ,new DateTime(2000, 1, 1));
+            var adultClient = new Client(1, "João Alves", "joao@ipca.com", "259486639", "912231427", new DateTime(2000, 1, 1));
 
             // Act: Chamar o método IsAdult()
             var result = adultClient.IsAdult();

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Tourist_Accommodation_System.Models
+﻿namespace Tourist_Accommodation_System.Models
 {
     public class Reservation
     {
@@ -26,7 +20,7 @@ namespace Tourist_Accommodation_System.Models
             TotalPrice = CalculateTotalPrice();  // Calcula o preço total ao criar a reserva
         }
 
-        
+
         // Método para calcular o preço total da estadia
         private decimal CalculateTotalPrice()
         {

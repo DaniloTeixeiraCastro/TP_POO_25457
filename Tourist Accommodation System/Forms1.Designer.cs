@@ -63,6 +63,7 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(329, 548);
             panel1.TabIndex = 5;
+            panel1.Paint += panel1_Paint;
             // 
             // pictureBox1
             // 
@@ -76,7 +77,7 @@
             // 
             // button_CLIENT
             // 
-            button_CLIENT.Location = new Point(188, 87);
+            button_CLIENT.Location = new Point(188, 75);
             button_CLIENT.Margin = new Padding(3, 4, 3, 4);
             button_CLIENT.Name = "button_CLIENT";
             button_CLIENT.Size = new Size(240, 77);
@@ -97,7 +98,7 @@
             // 
             // button_reservation
             // 
-            button_reservation.Location = new Point(188, 228);
+            button_reservation.Location = new Point(188, 248);
             button_reservation.Name = "button_reservation";
             button_reservation.Size = new Size(240, 77);
             button_reservation.TabIndex = 9;
@@ -107,7 +108,7 @@
             // 
             // button_reviews
             // 
-            button_reviews.Location = new Point(188, 302);
+            button_reviews.Location = new Point(188, 331);
             button_reviews.Name = "button_reviews";
             button_reviews.Size = new Size(240, 77);
             button_reviews.TabIndex = 10;
@@ -117,7 +118,7 @@
             // 
             // button_checkin
             // 
-            button_checkin.Location = new Point(188, 376);
+            button_checkin.Location = new Point(188, 424);
             button_checkin.Name = "button_checkin";
             button_checkin.Size = new Size(240, 77);
             button_checkin.TabIndex = 11;
@@ -134,9 +135,9 @@
             MainPanel.Controls.Add(button_reviews);
             MainPanel.Controls.Add(button_CLIENT);
             MainPanel.Controls.Add(button_accommodation);
-            MainPanel.Location = new Point(336, 12);
+            MainPanel.Location = new Point(336, 0);
             MainPanel.Name = "MainPanel";
-            MainPanel.Size = new Size(660, 536);
+            MainPanel.Size = new Size(660, 548);
             MainPanel.TabIndex = 12;
             MainPanel.Paint += MainPanel_Paint;
             // 

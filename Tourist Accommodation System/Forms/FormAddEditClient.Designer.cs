@@ -177,6 +177,7 @@
             Controls.Add(textBox_name);
             Name = "FormAddEditClient";
             Text = "FormAddEditClient";
+            Load += FormAddEditClient_Load;
             ResumeLayout(false);
             PerformLayout();
         }

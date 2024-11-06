@@ -83,7 +83,7 @@
             Controls.Add(button_editreservation);
             Controls.Add(button_addreservation);
             Name = "UserControlReservation";
-            Size = new Size(615, 443);
+            Size = new Size(1020, 597);
             ResumeLayout(false);
         }
 

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Tourist_Accommodation_System.Models
+﻿namespace Tourist_Accommodation_System.Models
 {
     public class Accommodation : Entity
     {

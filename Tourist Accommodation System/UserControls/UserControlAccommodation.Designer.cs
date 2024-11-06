@@ -38,7 +38,7 @@
             // 
             button_listaccommodation.Location = new Point(197, 347);
             button_listaccommodation.Name = "button_listaccommodation";
-            button_listaccommodation.Size = new Size(277, 45);
+            button_listaccommodation.Size = new Size(514, 45);
             button_listaccommodation.TabIndex = 7;
             button_listaccommodation.Text = "LIST ACCOMMODATION";
             button_listaccommodation.UseVisualStyleBackColor = true;
@@ -48,7 +48,7 @@
             // 
             button_removeaccommodation.Location = new Point(197, 267);
             button_removeaccommodation.Name = "button_removeaccommodation";
-            button_removeaccommodation.Size = new Size(277, 45);
+            button_removeaccommodation.Size = new Size(514, 45);
             button_removeaccommodation.TabIndex = 6;
             button_removeaccommodation.Text = "REMOVE ACCOMMODATION";
             button_removeaccommodation.UseVisualStyleBackColor = true;
@@ -58,7 +58,7 @@
             // 
             button_editaccommodation.Location = new Point(197, 182);
             button_editaccommodation.Name = "button_editaccommodation";
-            button_editaccommodation.Size = new Size(277, 51);
+            button_editaccommodation.Size = new Size(514, 51);
             button_editaccommodation.TabIndex = 5;
             button_editaccommodation.Text = "EDIT ACCOMMODATION";
             button_editaccommodation.UseVisualStyleBackColor = true;
@@ -68,7 +68,7 @@
             // 
             button_addaccommodation.Location = new Point(197, 93);
             button_addaccommodation.Name = "button_addaccommodation";
-            button_addaccommodation.Size = new Size(277, 51);
+            button_addaccommodation.Size = new Size(507, 51);
             button_addaccommodation.TabIndex = 4;
             button_addaccommodation.Text = "ADD ACCOMMODATION";
             button_addaccommodation.UseVisualStyleBackColor = true;
@@ -83,7 +83,7 @@
             Controls.Add(button_editaccommodation);
             Controls.Add(button_addaccommodation);
             Name = "UserControlAccommodation";
-            Size = new Size(670, 485);
+            Size = new Size(1015, 594);
             ResumeLayout(false);
         }
 
